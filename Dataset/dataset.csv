@@ -1,0 +1,7 @@
+File1,path1,Compiler1,Optimization1,File2,path2,Compiler2,Optimization2,SameSourceFile
+try2,/home/mishutin/Desktop/Research/Projects/Example/compiled_files/try2_clang_O1.o,clang,O1,try2,/home/mishutin/Desktop/Research/Projects/Example/compiled_files/try2_gcc_O0.o,gcc,O0,True
+try2,/home/mishutin/Desktop/Research/Projects/Example/compiled_files/try2_clang_O1.o,clang,O1,try2,/home/mishutin/Desktop/Research/Projects/Example/compiled_files/try2_gcc_O1.o,gcc,O1,True
+try2,/home/mishutin/Desktop/Research/Projects/Example/compiled_files/try2_clang_O1.o,clang,O1,try2,/home/mishutin/Desktop/Research/Projects/Example/compiled_files/try2_clang_O0.o,clang,O0,True
+try2,/home/mishutin/Desktop/Research/Projects/Example/compiled_files/try2_gcc_O0.o,gcc,O0,try2,/home/mishutin/Desktop/Research/Projects/Example/compiled_files/try2_gcc_O1.o,gcc,O1,True
+try2,/home/mishutin/Desktop/Research/Projects/Example/compiled_files/try2_gcc_O0.o,gcc,O0,try2,/home/mishutin/Desktop/Research/Projects/Example/compiled_files/try2_clang_O0.o,clang,O0,True
+try2,/home/mishutin/Desktop/Research/Projects/Example/compiled_files/try2_gcc_O1.o,gcc,O1,try2,/home/mishutin/Desktop/Research/Projects/Example/compiled_files/try2_clang_O0.o,clang,O0,True
